@@ -1,0 +1,15 @@
+{
+  "editor.formatOnPaste": true,
+  // "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.format": true
+  },
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f",
+    "terminal.foreground": "#1a93fd",
+    "terminalCursor.foreground": "#135a05"
+  }
+}
