@@ -14,7 +14,7 @@ module.exports = {
         'primary-white-color': '#fff',
         'secondary-color': '#1198f5',
         'light-color': '#2E323A',
-        'dark-color': '#3e4854',
+        'dark-color': '#282c34',
         'icon-color': '#89c24a',
         'input-backcolor': '#DFE8F1',
         'post-text-color': '#f0f8ff',
